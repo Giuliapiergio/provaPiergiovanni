@@ -1,2 +1,6 @@
+# Giulia Piergiovanni
+# Classe 3BS
+# prova con git, github, uv e python
+
 def main() -> None:
-    print("Hello from provapiergiovanni!")
+    print("Mi chiamo Giulia!")
