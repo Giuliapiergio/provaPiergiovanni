@@ -3,4 +3,4 @@
 # prova con git, github, uv e python
 
 def main() -> None:
-    print("Mi chiamo Giulia!")
+    print("Mi chiamo Giuliaaa!")
