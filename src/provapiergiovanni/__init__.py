@@ -4,3 +4,5 @@
 
 def main() -> None:
     print("Mi chiamo Giuliaaa!")
+
+print("Ciao Giuli!")
